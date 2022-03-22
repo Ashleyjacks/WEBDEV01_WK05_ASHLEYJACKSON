@@ -11,11 +11,11 @@ export default [
     },
     {
         type: 'list',
-        name: 'opition',
+        name: 'option',
         message: 'Choose opition below',
         choices: [
             'Current Day',
-            '7 Day Forecasts'
+            '8 Day Forecasts'
         ]
     }
 ]
